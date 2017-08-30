@@ -1,0 +1,2 @@
+ cloudera-director bootstrap-remote --lp.remote.hostAndPort=YOURHOST:7189 \
+ --lp.remote.username=admin --lp.remote.password=YOURPASSWD  YOURCONF.conf
